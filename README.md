@@ -15,8 +15,17 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0283-move-zeroes](https://github.com/Abhishek7599/Dsa/tree/master/0283-move-zeroes) |
+| [0628-maximum-product-of-three-numbers](https://github.com/Abhishek7599/Dsa/tree/master/0628-maximum-product-of-three-numbers) |
 ## Two Pointers
 |  |
 | ------- |
 | [0283-move-zeroes](https://github.com/Abhishek7599/Dsa/tree/master/0283-move-zeroes) |
+## Math
+|  |
+| ------- |
+| [0628-maximum-product-of-three-numbers](https://github.com/Abhishek7599/Dsa/tree/master/0628-maximum-product-of-three-numbers) |
+## Sorting
+|  |
+| ------- |
+| [0628-maximum-product-of-three-numbers](https://github.com/Abhishek7599/Dsa/tree/master/0628-maximum-product-of-three-numbers) |
 <!---LeetCode Topics End-->
