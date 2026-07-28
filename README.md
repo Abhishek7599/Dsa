@@ -37,8 +37,17 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0039-combination-sum](https://github.com/Abhishek7599/Dsa/tree/master/0039-combination-sum) |
+| [0131-palindrome-partitioning](https://github.com/Abhishek7599/Dsa/tree/master/0131-palindrome-partitioning) |
 ## Heap (Priority Queue)
 |  |
 | ------- |
 | [1464-maximum-product-of-two-elements-in-an-array](https://github.com/Abhishek7599/Dsa/tree/master/1464-maximum-product-of-two-elements-in-an-array) |
+## String
+|  |
+| ------- |
+| [0131-palindrome-partitioning](https://github.com/Abhishek7599/Dsa/tree/master/0131-palindrome-partitioning) |
+## Dynamic Programming
+|  |
+| ------- |
+| [0131-palindrome-partitioning](https://github.com/Abhishek7599/Dsa/tree/master/0131-palindrome-partitioning) |
 <!---LeetCode Topics End-->
