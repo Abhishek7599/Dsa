@@ -1,14 +1,9 @@
 class Solution {
 public:
-    set <vector<int>> s;
     void poss(vector<vector<int>>& ans,vector<int>& comb,int n,int k,int start){
             if(comb.size()==k){
-                if(s.find(comb)==s.end()){
                     ans.push_back(comb);
-                    s.insert(comb);
                     return;
-
-                }
             }
         for(int i=start;i <= n;i++){
             comb.push_back(i);
