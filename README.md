@@ -20,6 +20,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0283-move-zeroes](https://github.com/Abhishek7599/Dsa/tree/master/0283-move-zeroes) |
 | [0628-maximum-product-of-three-numbers](https://github.com/Abhishek7599/Dsa/tree/master/0628-maximum-product-of-three-numbers) |
 | [1464-maximum-product-of-two-elements-in-an-array](https://github.com/Abhishek7599/Dsa/tree/master/1464-maximum-product-of-two-elements-in-an-array) |
+| [2596-check-knight-tour-configuration](https://github.com/Abhishek7599/Dsa/tree/master/2596-check-knight-tour-configuration) |
 ## Two Pointers
 |  |
 | ------- |
@@ -55,4 +56,20 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0131-palindrome-partitioning](https://github.com/Abhishek7599/Dsa/tree/master/0131-palindrome-partitioning) |
+## Depth-First Search
+|  |
+| ------- |
+| [2596-check-knight-tour-configuration](https://github.com/Abhishek7599/Dsa/tree/master/2596-check-knight-tour-configuration) |
+## Breadth-First Search
+|  |
+| ------- |
+| [2596-check-knight-tour-configuration](https://github.com/Abhishek7599/Dsa/tree/master/2596-check-knight-tour-configuration) |
+## Matrix
+|  |
+| ------- |
+| [2596-check-knight-tour-configuration](https://github.com/Abhishek7599/Dsa/tree/master/2596-check-knight-tour-configuration) |
+## Simulation
+|  |
+| ------- |
+| [2596-check-knight-tour-configuration](https://github.com/Abhishek7599/Dsa/tree/master/2596-check-knight-tour-configuration) |
 <!---LeetCode Topics End-->
