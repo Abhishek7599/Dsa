@@ -18,6 +18,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0040-combination-sum-ii](https://github.com/Abhishek7599/Dsa/tree/master/0040-combination-sum-ii) |
 | [0047-permutations-ii](https://github.com/Abhishek7599/Dsa/tree/master/0047-permutations-ii) |
 | [0051-n-queens](https://github.com/Abhishek7599/Dsa/tree/master/0051-n-queens) |
+| [0228-summary-ranges](https://github.com/Abhishek7599/Dsa/tree/master/0228-summary-ranges) |
 | [0283-move-zeroes](https://github.com/Abhishek7599/Dsa/tree/master/0283-move-zeroes) |
 | [0628-maximum-product-of-three-numbers](https://github.com/Abhishek7599/Dsa/tree/master/0628-maximum-product-of-three-numbers) |
 | [0877-stone-game](https://github.com/Abhishek7599/Dsa/tree/master/0877-stone-game) |
