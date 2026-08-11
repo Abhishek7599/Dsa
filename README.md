@@ -24,6 +24,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0877-stone-game](https://github.com/Abhishek7599/Dsa/tree/master/0877-stone-game) |
 | [1464-maximum-product-of-two-elements-in-an-array](https://github.com/Abhishek7599/Dsa/tree/master/1464-maximum-product-of-two-elements-in-an-array) |
 | [2596-check-knight-tour-configuration](https://github.com/Abhishek7599/Dsa/tree/master/2596-check-knight-tour-configuration) |
+| [2678-number-of-senior-citizens](https://github.com/Abhishek7599/Dsa/tree/master/2678-number-of-senior-citizens) |
 | [3731-find-missing-elements](https://github.com/Abhishek7599/Dsa/tree/master/3731-find-missing-elements) |
 ## Two Pointers
 |  |
@@ -64,6 +65,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0058-length-of-last-word](https://github.com/Abhishek7599/Dsa/tree/master/0058-length-of-last-word) |
 | [0131-palindrome-partitioning](https://github.com/Abhishek7599/Dsa/tree/master/0131-palindrome-partitioning) |
+| [2678-number-of-senior-citizens](https://github.com/Abhishek7599/Dsa/tree/master/2678-number-of-senior-citizens) |
 ## Dynamic Programming
 |  |
 | ------- |
