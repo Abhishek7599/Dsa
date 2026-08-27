@@ -21,6 +21,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0047-permutations-ii](https://github.com/Abhishek7599/Dsa/tree/master/0047-permutations-ii) |
 | [0051-n-queens](https://github.com/Abhishek7599/Dsa/tree/master/0051-n-queens) |
 | [0152-maximum-product-subarray](https://github.com/Abhishek7599/Dsa/tree/master/0152-maximum-product-subarray) |
+| [0219-contains-duplicate-ii](https://github.com/Abhishek7599/Dsa/tree/master/0219-contains-duplicate-ii) |
 | [0228-summary-ranges](https://github.com/Abhishek7599/Dsa/tree/master/0228-summary-ranges) |
 | [0283-move-zeroes](https://github.com/Abhishek7599/Dsa/tree/master/0283-move-zeroes) |
 | [0628-maximum-product-of-three-numbers](https://github.com/Abhishek7599/Dsa/tree/master/0628-maximum-product-of-three-numbers) |
@@ -132,6 +133,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0138-copy-list-with-random-pointer](https://github.com/Abhishek7599/Dsa/tree/master/0138-copy-list-with-random-pointer) |
 | [0141-linked-list-cycle](https://github.com/Abhishek7599/Dsa/tree/master/0141-linked-list-cycle) |
 | [0142-linked-list-cycle-ii](https://github.com/Abhishek7599/Dsa/tree/master/0142-linked-list-cycle-ii) |
+| [0219-contains-duplicate-ii](https://github.com/Abhishek7599/Dsa/tree/master/0219-contains-duplicate-ii) |
 | [3731-find-missing-elements](https://github.com/Abhishek7599/Dsa/tree/master/3731-find-missing-elements) |
 ## Floyd's Cycle Finding Algorithm
 |  |
@@ -154,6 +156,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0003-longest-substring-without-repeating-characters](https://github.com/Abhishek7599/Dsa/tree/master/0003-longest-substring-without-repeating-characters) |
+| [0219-contains-duplicate-ii](https://github.com/Abhishek7599/Dsa/tree/master/0219-contains-duplicate-ii) |
 | [1004-max-consecutive-ones-iii](https://github.com/Abhishek7599/Dsa/tree/master/1004-max-consecutive-ones-iii) |
 | [1423-maximum-points-you-can-obtain-from-cards](https://github.com/Abhishek7599/Dsa/tree/master/1423-maximum-points-you-can-obtain-from-cards) |
 ## Prefix Sum
