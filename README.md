@@ -30,6 +30,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1004-max-consecutive-ones-iii](https://github.com/Abhishek7599/Dsa/tree/master/1004-max-consecutive-ones-iii) |
 | [1423-maximum-points-you-can-obtain-from-cards](https://github.com/Abhishek7599/Dsa/tree/master/1423-maximum-points-you-can-obtain-from-cards) |
 | [1464-maximum-product-of-two-elements-in-an-array](https://github.com/Abhishek7599/Dsa/tree/master/1464-maximum-product-of-two-elements-in-an-array) |
+| [1652-defuse-the-bomb](https://github.com/Abhishek7599/Dsa/tree/master/1652-defuse-the-bomb) |
 | [2596-check-knight-tour-configuration](https://github.com/Abhishek7599/Dsa/tree/master/2596-check-knight-tour-configuration) |
 | [2678-number-of-senior-citizens](https://github.com/Abhishek7599/Dsa/tree/master/2678-number-of-senior-citizens) |
 | [3731-find-missing-elements](https://github.com/Abhishek7599/Dsa/tree/master/3731-find-missing-elements) |
@@ -163,6 +164,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0594-longest-harmonious-subsequence](https://github.com/Abhishek7599/Dsa/tree/master/0594-longest-harmonious-subsequence) |
 | [1004-max-consecutive-ones-iii](https://github.com/Abhishek7599/Dsa/tree/master/1004-max-consecutive-ones-iii) |
 | [1423-maximum-points-you-can-obtain-from-cards](https://github.com/Abhishek7599/Dsa/tree/master/1423-maximum-points-you-can-obtain-from-cards) |
+| [1652-defuse-the-bomb](https://github.com/Abhishek7599/Dsa/tree/master/1652-defuse-the-bomb) |
 ## Prefix Sum
 |  |
 | ------- |
