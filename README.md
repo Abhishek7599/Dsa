@@ -24,6 +24,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0219-contains-duplicate-ii](https://github.com/Abhishek7599/Dsa/tree/master/0219-contains-duplicate-ii) |
 | [0228-summary-ranges](https://github.com/Abhishek7599/Dsa/tree/master/0228-summary-ranges) |
 | [0283-move-zeroes](https://github.com/Abhishek7599/Dsa/tree/master/0283-move-zeroes) |
+| [0496-next-greater-element-i](https://github.com/Abhishek7599/Dsa/tree/master/0496-next-greater-element-i) |
 | [0594-longest-harmonious-subsequence](https://github.com/Abhishek7599/Dsa/tree/master/0594-longest-harmonious-subsequence) |
 | [0628-maximum-product-of-three-numbers](https://github.com/Abhishek7599/Dsa/tree/master/0628-maximum-product-of-three-numbers) |
 | [0877-stone-game](https://github.com/Abhishek7599/Dsa/tree/master/0877-stone-game) |
@@ -139,6 +140,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0141-linked-list-cycle](https://github.com/Abhishek7599/Dsa/tree/master/0141-linked-list-cycle) |
 | [0142-linked-list-cycle-ii](https://github.com/Abhishek7599/Dsa/tree/master/0142-linked-list-cycle-ii) |
 | [0219-contains-duplicate-ii](https://github.com/Abhishek7599/Dsa/tree/master/0219-contains-duplicate-ii) |
+| [0496-next-greater-element-i](https://github.com/Abhishek7599/Dsa/tree/master/0496-next-greater-element-i) |
 | [0594-longest-harmonious-subsequence](https://github.com/Abhishek7599/Dsa/tree/master/0594-longest-harmonious-subsequence) |
 | [0904-fruit-into-baskets](https://github.com/Abhishek7599/Dsa/tree/master/0904-fruit-into-baskets) |
 | [1763-longest-nice-substring](https://github.com/Abhishek7599/Dsa/tree/master/1763-longest-nice-substring) |
@@ -156,6 +158,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0020-valid-parentheses](https://github.com/Abhishek7599/Dsa/tree/master/0020-valid-parentheses) |
+| [0496-next-greater-element-i](https://github.com/Abhishek7599/Dsa/tree/master/0496-next-greater-element-i) |
 ## Bracket Sequences
 |  |
 | ------- |
@@ -188,4 +191,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [1763-longest-nice-substring](https://github.com/Abhishek7599/Dsa/tree/master/1763-longest-nice-substring) |
+## Monotonic Stack
+|  |
+| ------- |
+| [0496-next-greater-element-i](https://github.com/Abhishek7599/Dsa/tree/master/0496-next-greater-element-i) |
 <!---LeetCode Topics End-->
