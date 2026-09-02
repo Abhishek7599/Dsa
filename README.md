@@ -37,6 +37,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2596-check-knight-tour-configuration](https://github.com/Abhishek7599/Dsa/tree/master/2596-check-knight-tour-configuration) |
 | [2678-number-of-senior-citizens](https://github.com/Abhishek7599/Dsa/tree/master/2678-number-of-senior-citizens) |
 | [3731-find-missing-elements](https://github.com/Abhishek7599/Dsa/tree/master/3731-find-missing-elements) |
+| [3875-construct-uniform-parity-array-i](https://github.com/Abhishek7599/Dsa/tree/master/3875-construct-uniform-parity-array-i) |
 ## Two Pointers
 |  |
 | ------- |
@@ -50,6 +51,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0628-maximum-product-of-three-numbers](https://github.com/Abhishek7599/Dsa/tree/master/0628-maximum-product-of-three-numbers) |
 | [0877-stone-game](https://github.com/Abhishek7599/Dsa/tree/master/0877-stone-game) |
 | [3536-maximum-product-of-two-digits](https://github.com/Abhishek7599/Dsa/tree/master/3536-maximum-product-of-two-digits) |
+| [3875-construct-uniform-parity-array-i](https://github.com/Abhishek7599/Dsa/tree/master/3875-construct-uniform-parity-array-i) |
 ## Sorting
 |  |
 | ------- |
