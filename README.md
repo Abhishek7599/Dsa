@@ -71,6 +71,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Backtracking
 |  |
 | ------- |
+| [0022-generate-parentheses](https://github.com/Abhishek7599/Dsa/tree/master/0022-generate-parentheses) |
 | [0039-combination-sum](https://github.com/Abhishek7599/Dsa/tree/master/0039-combination-sum) |
 | [0040-combination-sum-ii](https://github.com/Abhishek7599/Dsa/tree/master/0040-combination-sum-ii) |
 | [0047-permutations-ii](https://github.com/Abhishek7599/Dsa/tree/master/0047-permutations-ii) |
@@ -87,6 +88,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0003-longest-substring-without-repeating-characters](https://github.com/Abhishek7599/Dsa/tree/master/0003-longest-substring-without-repeating-characters) |
 | [0008-string-to-integer-atoi](https://github.com/Abhishek7599/Dsa/tree/master/0008-string-to-integer-atoi) |
 | [0020-valid-parentheses](https://github.com/Abhishek7599/Dsa/tree/master/0020-valid-parentheses) |
+| [0022-generate-parentheses](https://github.com/Abhishek7599/Dsa/tree/master/0022-generate-parentheses) |
 | [0058-length-of-last-word](https://github.com/Abhishek7599/Dsa/tree/master/0058-length-of-last-word) |
 | [0131-palindrome-partitioning](https://github.com/Abhishek7599/Dsa/tree/master/0131-palindrome-partitioning) |
 | [1763-longest-nice-substring](https://github.com/Abhishek7599/Dsa/tree/master/1763-longest-nice-substring) |
@@ -94,6 +96,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Dynamic Programming
 |  |
 | ------- |
+| [0022-generate-parentheses](https://github.com/Abhishek7599/Dsa/tree/master/0022-generate-parentheses) |
 | [0042-trapping-rain-water](https://github.com/Abhishek7599/Dsa/tree/master/0042-trapping-rain-water) |
 | [0131-palindrome-partitioning](https://github.com/Abhishek7599/Dsa/tree/master/0131-palindrome-partitioning) |
 | [0152-maximum-product-subarray](https://github.com/Abhishek7599/Dsa/tree/master/0152-maximum-product-subarray) |
@@ -178,6 +181,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0020-valid-parentheses](https://github.com/Abhishek7599/Dsa/tree/master/0020-valid-parentheses) |
+| [0022-generate-parentheses](https://github.com/Abhishek7599/Dsa/tree/master/0022-generate-parentheses) |
 ## Sliding Window
 |  |
 | ------- |
