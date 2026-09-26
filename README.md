@@ -91,6 +91,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0022-generate-parentheses](https://github.com/Abhishek7599/Dsa/tree/master/0022-generate-parentheses) |
 | [0058-length-of-last-word](https://github.com/Abhishek7599/Dsa/tree/master/0058-length-of-last-word) |
 | [0131-palindrome-partitioning](https://github.com/Abhishek7599/Dsa/tree/master/0131-palindrome-partitioning) |
+| [0387-first-unique-character-in-a-string](https://github.com/Abhishek7599/Dsa/tree/master/0387-first-unique-character-in-a-string) |
 | [1763-longest-nice-substring](https://github.com/Abhishek7599/Dsa/tree/master/1763-longest-nice-substring) |
 | [2678-number-of-senior-citizens](https://github.com/Abhishek7599/Dsa/tree/master/2678-number-of-senior-citizens) |
 ## Dynamic Programming
@@ -154,6 +155,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0141-linked-list-cycle](https://github.com/Abhishek7599/Dsa/tree/master/0141-linked-list-cycle) |
 | [0142-linked-list-cycle-ii](https://github.com/Abhishek7599/Dsa/tree/master/0142-linked-list-cycle-ii) |
 | [0219-contains-duplicate-ii](https://github.com/Abhishek7599/Dsa/tree/master/0219-contains-duplicate-ii) |
+| [0387-first-unique-character-in-a-string](https://github.com/Abhishek7599/Dsa/tree/master/0387-first-unique-character-in-a-string) |
 | [0496-next-greater-element-i](https://github.com/Abhishek7599/Dsa/tree/master/0496-next-greater-element-i) |
 | [0594-longest-harmonious-subsequence](https://github.com/Abhishek7599/Dsa/tree/master/0594-longest-harmonious-subsequence) |
 | [0904-fruit-into-baskets](https://github.com/Abhishek7599/Dsa/tree/master/0904-fruit-into-baskets) |
@@ -205,6 +207,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Counting
 |  |
 | ------- |
+| [0387-first-unique-character-in-a-string](https://github.com/Abhishek7599/Dsa/tree/master/0387-first-unique-character-in-a-string) |
 | [0594-longest-harmonious-subsequence](https://github.com/Abhishek7599/Dsa/tree/master/0594-longest-harmonious-subsequence) |
 ## Divide and Conquer
 |  |
@@ -236,4 +239,5 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0225-implement-stack-using-queues](https://github.com/Abhishek7599/Dsa/tree/master/0225-implement-stack-using-queues) |
 | [0232-implement-queue-using-stacks](https://github.com/Abhishek7599/Dsa/tree/master/0232-implement-queue-using-stacks) |
+| [0387-first-unique-character-in-a-string](https://github.com/Abhishek7599/Dsa/tree/master/0387-first-unique-character-in-a-string) |
 <!---LeetCode Topics End-->
