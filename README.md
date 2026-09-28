@@ -22,6 +22,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0047-permutations-ii](https://github.com/Abhishek7599/Dsa/tree/master/0047-permutations-ii) |
 | [0051-n-queens](https://github.com/Abhishek7599/Dsa/tree/master/0051-n-queens) |
 | [0084-largest-rectangle-in-histogram](https://github.com/Abhishek7599/Dsa/tree/master/0084-largest-rectangle-in-histogram) |
+| [0134-gas-station](https://github.com/Abhishek7599/Dsa/tree/master/0134-gas-station) |
 | [0152-maximum-product-subarray](https://github.com/Abhishek7599/Dsa/tree/master/0152-maximum-product-subarray) |
 | [0219-contains-duplicate-ii](https://github.com/Abhishek7599/Dsa/tree/master/0219-contains-duplicate-ii) |
 | [0228-summary-ranges](https://github.com/Abhishek7599/Dsa/tree/master/0228-summary-ranges) |
@@ -249,4 +250,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0239-sliding-window-maximum](https://github.com/Abhishek7599/Dsa/tree/master/0239-sliding-window-maximum) |
+## Greedy
+|  |
+| ------- |
+| [0134-gas-station](https://github.com/Abhishek7599/Dsa/tree/master/0134-gas-station) |
 <!---LeetCode Topics End-->
