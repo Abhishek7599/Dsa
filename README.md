@@ -292,6 +292,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0257-binary-tree-paths](https://github.com/Abhishek7599/Dsa/tree/master/0257-binary-tree-paths) |
 | [0572-subtree-of-another-tree](https://github.com/Abhishek7599/Dsa/tree/master/0572-subtree-of-another-tree) |
 | [0662-maximum-width-of-binary-tree](https://github.com/Abhishek7599/Dsa/tree/master/0662-maximum-width-of-binary-tree) |
+| [0700-search-in-a-binary-search-tree](https://github.com/Abhishek7599/Dsa/tree/master/0700-search-in-a-binary-search-tree) |
 ## String Matching
 |  |
 | ------- |
@@ -310,6 +311,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0257-binary-tree-paths](https://github.com/Abhishek7599/Dsa/tree/master/0257-binary-tree-paths) |
 | [0572-subtree-of-another-tree](https://github.com/Abhishek7599/Dsa/tree/master/0572-subtree-of-another-tree) |
 | [0662-maximum-width-of-binary-tree](https://github.com/Abhishek7599/Dsa/tree/master/0662-maximum-width-of-binary-tree) |
+| [0700-search-in-a-binary-search-tree](https://github.com/Abhishek7599/Dsa/tree/master/0700-search-in-a-binary-search-tree) |
 ## Hash Function
 |  |
 | ------- |
@@ -322,4 +324,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0236-lowest-common-ancestor-of-a-binary-tree](https://github.com/Abhishek7599/Dsa/tree/master/0236-lowest-common-ancestor-of-a-binary-tree) |
+## Binary Search Tree
+|  |
+| ------- |
+| [0700-search-in-a-binary-search-tree](https://github.com/Abhishek7599/Dsa/tree/master/0700-search-in-a-binary-search-tree) |
 <!---LeetCode Topics End-->
